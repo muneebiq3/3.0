@@ -1,0 +1,14 @@
+button {
+    background-color: #F8EA6C;
+    position: absolute;
+    top: 280px;
+    left: 130px;
+  }
+  
+  p {
+    margin-bottom: 40px;
+  }
+  
+  main {
+    max-width: 500px;
+  }

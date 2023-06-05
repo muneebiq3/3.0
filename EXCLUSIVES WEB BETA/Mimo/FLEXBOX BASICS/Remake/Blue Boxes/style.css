@@ -1,0 +1,18 @@
+body{
+    float: left;
+}
+.square{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.one{
+    flex-direction: row-reverse;
+}
+.three{
+    flex-direction: row-reverse;
+}

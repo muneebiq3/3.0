@@ -1,0 +1,38 @@
+#nav{
+    background-color: #DE9C51;
+    color: #FFFFFF;
+    justify-content: flex;
+}
+#welcome{
+    background-color: #F0F0F0;
+    flex-direction: row;
+}
+ #footer{
+    background-color: #303030;
+    height: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+#nav, #welcome, #footer{
+    display: flex;
+}
+.p-1{
+    padding: 8px;
+}
+.p-2{
+    padding: 16px;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+body{
+    font-family: sans-serif;
+}

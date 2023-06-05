@@ -1,0 +1,21 @@
+.trafficlight{
+background-color: #777777;
+height: 160px;
+padding: 10px;
+}
+
+.red{
+background-color: #FF0000;
+}
+.yellow{
+background-color: #FFFF00;
+}
+.green{
+background-color: #00FF00;
+}
+div{
+    border-radius: 25px;
+    margin-bottom: 5px;
+    height: 50px;
+    width: 50px;
+}

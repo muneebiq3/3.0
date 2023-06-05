@@ -1,0 +1,16 @@
+img {
+ 
+    top: 65px;
+    left: 375px;
+    height: 100px;
+    width: auto;
+    opacity: 0.5;
+    z-index: 1;
+    position: relative;
+  }
+  
+  p {
+    text-align: center;
+    z-index: 2;
+    position: relative;
+  }

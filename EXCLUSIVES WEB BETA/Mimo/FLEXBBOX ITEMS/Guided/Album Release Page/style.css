@@ -1,0 +1,37 @@
+body{
+    background-color: linear-gradient(90deg, #ABC6CC, #DBE6F6);
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: 100;
+}
+.song{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    height: 20px;
+    background-color: #DFE6E9;
+    color: black;
+    font-size: 10px;
+}
+#album{
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+#description{
+    flex: 1 0 250px;
+}
+#songlist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.bonus{
+    flex-grow: 1;
+}

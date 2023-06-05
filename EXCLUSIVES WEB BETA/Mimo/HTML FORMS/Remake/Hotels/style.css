@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato:wght@300&display=swap');
+
+h1 {
+ font-family: 'Fredoka One', cursive;
+}
+
+body {
+ text-align: center;
+ font-family: Lato;
+ display: grid;
+ background-color: white;
+}
+
+form {
+ width: 80%;
+ margin: auto;
+}
+
+label {
+ float: left;
+ width: 50%;
+}
+
+input {
+ width: 50%;
+ margin: 10px;
+ padding: 10px;
+ background: white;
+ font-family: Lato;
+}
+
+button {
+ background: teal;
+ font-size: 15px;
+ padding: 10px;
+ border: none;
+ color: white;
+}

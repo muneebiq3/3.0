@@ -1,0 +1,14 @@
+.container{
+    background-color: #3E416D;
+    display: flex;
+}
+.item{
+    height: 50px;
+    width: 50px;
+    background-color: #62d76b;
+    margin: 5px;
+    flex-grow: 1;
+}
+#item-2{
+   flex-grow: 4;
+}

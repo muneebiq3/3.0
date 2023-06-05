@@ -1,0 +1,20 @@
+#wrapper{
+    display: flex;
+}
+#times{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 100px;
+}
+#times p{
+    flex-grow: 1;
+}
+#events{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+#events p{
+    flex-grow: 1;
+}

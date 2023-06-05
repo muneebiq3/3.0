@@ -1,0 +1,22 @@
+.album-info {
+    padding-left: 5%;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button img {
+    width: 100%;
+    height: auto;
+  }
+  
+  button {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+  }

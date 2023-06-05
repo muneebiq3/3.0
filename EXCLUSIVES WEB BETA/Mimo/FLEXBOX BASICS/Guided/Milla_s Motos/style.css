@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #FFF9F5;
+    color: #36454F;
+    text-align: center;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+a{
+    margin: 15px;
+    text-decoration: none;
+    color: #36454F;
+}
+img{
+    width: 150px;
+    border: solid 3px #36454F;
+    border-radius: 5px;
+}
+img:hover{
+    cursor: pointer;
+}
+.item{
+    margin: 10px;
+    font-size: 15px;
+}
+.partners{
+    text-decoration: underline;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+.otherPromo{
+    height: 540px;
+    flex-direction: column-reverse;
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+    display: flex
+}
+.navigation{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.todayPromo{
+    flex-direction: column;
+}

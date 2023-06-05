@@ -1,0 +1,19 @@
+img {
+    position: relative;
+     height: 80px;
+     width: auto;
+     top: 70px;
+     right: 70px;
+     z-index: 1;
+   }
+   
+   button {
+     position: relative;
+     top: 100px;
+     height: 100px;
+     width: 150px;
+     font-size: 25px;
+     border-radius: 12px;
+     border-style: none;
+     z-index: 2;
+   }

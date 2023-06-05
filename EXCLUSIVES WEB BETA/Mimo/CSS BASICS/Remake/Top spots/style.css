@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+}
+body{
+    padding: 40px 10px 0 10px;
+}
+p{
+    padding-left: 5%;
+}
+#last-paragraph{
+    font-weight: bold;
+}

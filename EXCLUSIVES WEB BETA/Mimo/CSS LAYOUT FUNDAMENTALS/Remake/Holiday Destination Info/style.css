@@ -1,0 +1,25 @@
+img{
+    left: -120px;
+    top: 30px;
+    position: relative;
+    border-radius: 10px;
+}
+#more{
+    top: 8px;
+    right: 10px;
+    background-color: indianred;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+#text{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+}
