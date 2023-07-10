@@ -1,3 +1,15 @@
-#h1_one {
-    color: blue;
+.flex-container {
+    background-color: #E0F6FF;
+    border: 1px dashed #1E96FF; 
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+}
+.flex-item {
+    background-color: #1E96FF;
+    color: #FFFFFF;
+    
+    margin: 2px;
 }

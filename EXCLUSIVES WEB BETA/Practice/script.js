@@ -1,10 +1,11 @@
-const phone = {
-    brand: "Apple",
-    number: "555-555-5555",
-    call: function(phoneNumber) {
-        this.brand="PineApple"
-        console.log("Calling " + this.brand);
+function multiply(multiplier) {
+
+    for(let i=1; i<11; i++) {
+
+        console.log(multiplier+" "+"x "+i+" = "+multiplier*i);
+
     }
-};
-phone.call("Zia")
-console.log(phone.brand);
+
+}
+
+multiply(10);
